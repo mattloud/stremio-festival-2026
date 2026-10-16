@@ -1,0 +1,22 @@
+{
+  "id": "com.mattloud.festival2026",
+  "version": "1.0.0",
+  "name": "Festival Circuit 2026",
+  "description": "The best films of 2026 from the festival circuit — Cannes and Venice prize-winners. No blockbusters.",
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "festival-2026",
+      "name": "Festival Circuit 2026"
+    }
+  ],
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
